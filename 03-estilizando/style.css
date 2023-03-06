@@ -1,0 +1,39 @@
+*{
+    font-family: 'Roboto', sans-serif;
+}
+body {
+    background-color: blanchedalmond;
+}
+
+h1 {
+    text-align: center;
+}
+
+h4 {
+    margin: 5px 0px 0px 0px;
+}
+
+address {
+    text-decoration: underline;
+}
+
+span {
+    padding-right: 5px;
+}
+a.contato {
+    text-transform: lowercase;
+    letter-spacing: 1px;
+}
+
+
+h2 {
+    
+    border-bottom: solid;
+    border-color: brown;
+    width: fit-content;
+}
+
+ul, li {
+    list-style-type: square;
+}
+

@@ -1,0 +1,29 @@
+* {
+    font-size: x-large;
+}
+
+p {
+    background-color: blueviolet;
+}
+
+#sid {
+    background-color: aqua;
+}
+
+.sclasse {
+
+    background-color: brown;
+
+}
+
+h1.sclasse {
+
+    background-color: cadetblue;
+
+}
+
+h1, pre {
+
+    background-color: chartreuse;
+
+}
